@@ -1,0 +1,26 @@
+# System
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+env/
+.env
+
+# Javascript/Node
+node_modules/
+dist/
+build/
+.next/
+coverage/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Large Data (Tracked by LFS if needed, otherwise ignored)
+# We will track .pkl with LFS
+# *.pkl 
